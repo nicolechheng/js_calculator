@@ -21,6 +21,7 @@ body {
 
 .calculator-grid > button {
     cursor: pointer;
+    height: 100px;
     font-size: 2rem;
     border: 1px solid white;
     outline: none;
